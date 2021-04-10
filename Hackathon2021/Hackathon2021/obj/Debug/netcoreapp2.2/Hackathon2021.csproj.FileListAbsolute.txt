@@ -1,0 +1,14 @@
+C:\Users\ysara\source\repos\Hackathon2021\Hackathon2021\bin\Debug\netcoreapp2.2\Hackathon2021.deps.json
+C:\Users\ysara\source\repos\Hackathon2021\Hackathon2021\bin\Debug\netcoreapp2.2\Hackathon2021.runtimeconfig.json
+C:\Users\ysara\source\repos\Hackathon2021\Hackathon2021\bin\Debug\netcoreapp2.2\Hackathon2021.runtimeconfig.dev.json
+C:\Users\ysara\source\repos\Hackathon2021\Hackathon2021\bin\Debug\netcoreapp2.2\Hackathon2021.dll
+C:\Users\ysara\source\repos\Hackathon2021\Hackathon2021\bin\Debug\netcoreapp2.2\Hackathon2021.pdb
+C:\Users\ysara\source\repos\Hackathon2021\Hackathon2021\obj\Debug\netcoreapp2.2\Hackathon2021.csprojAssemblyReference.cache
+C:\Users\ysara\source\repos\Hackathon2021\Hackathon2021\obj\Debug\netcoreapp2.2\Hackathon2021.csproj.CoreCompileInputs.cache
+C:\Users\ysara\source\repos\Hackathon2021\Hackathon2021\obj\Debug\netcoreapp2.2\Hackathon2021.RazorAssemblyInfo.cache
+C:\Users\ysara\source\repos\Hackathon2021\Hackathon2021\obj\Debug\netcoreapp2.2\Hackathon2021.RazorAssemblyInfo.cs
+C:\Users\ysara\source\repos\Hackathon2021\Hackathon2021\obj\Debug\netcoreapp2.2\Hackathon2021.AssemblyInfoInputs.cache
+C:\Users\ysara\source\repos\Hackathon2021\Hackathon2021\obj\Debug\netcoreapp2.2\Hackathon2021.AssemblyInfo.cs
+C:\Users\ysara\source\repos\Hackathon2021\Hackathon2021\obj\Debug\netcoreapp2.2\Hackathon2021.RazorTargetAssemblyInfo.cache
+C:\Users\ysara\source\repos\Hackathon2021\Hackathon2021\obj\Debug\netcoreapp2.2\Hackathon2021.dll
+C:\Users\ysara\source\repos\Hackathon2021\Hackathon2021\obj\Debug\netcoreapp2.2\Hackathon2021.pdb
